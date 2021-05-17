@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fitness-dev-185453-authRole",
+      "UnauthRoleArn": "arn:aws:iam::392932081768:role/amplify-fitness-dev-185453-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::392932081768:role/amplify-fitness-dev-185453-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-fitness-dev-185453-deployment",
+      "UnauthRoleName": "amplify-fitness-dev-185453-unauthRole",
+      "StackName": "amplify-fitness-dev-185453",
+      "StackId": "arn:aws:cloudformation:us-east-1:392932081768:stack/amplify-fitness-dev-185453/10a88500-b65f-11eb-ab55-121b58656156",
+      "AmplifyAppId": "dk48o87l008xz"
+    },
+    "categories": {
+      "auth": {
+        "fitness7a873d5f": {}
+      }
+    }
+  }
+}
